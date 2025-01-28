@@ -15,7 +15,7 @@ How to Run
 
 1. Clone the repository or download the ZIP file:
 
-git clone https://github.com/MehdiNOUX/Random-Background-Color.git
+git clone https://github.com/MehdiNOUX/Random-Background-Color-v1.git
 
 
 2. Open the index.html file in your browser.
