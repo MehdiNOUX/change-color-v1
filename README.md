@@ -1,20 +1,21 @@
 Random Background Color Changer
 
-یک پروژه ساده برای تغییر تصادفی رنگ پس‌زمینه با کلیک روی دکمه
+A simple project to randomly change the background color on button click
 
-توضیحات :
+Description
 
-این پروژه با هدف تمرین جاوااسکریپت ساخته شده است. با هر کلیک روی دکمه، رنگ پس‌زمینه صفحه به‌صورت تصادفی تغییر می‌کند.
+This project was created as a practice for learning JavaScript. On every button click, the background color of the page changes randomly.
+
+Technologies Used
+
+[ HTML ,CSS ,JavaScript ]
 
 
+How to Run
 
-[ HTML, CSS ,JavaScript ]
-
-
-نحوه اجرا
-
-۱. پروژه را کلون کنید یا فایل ZIP را دانلود کنید:
+1. Clone the repository or download the ZIP file:
 
 git clone https://github.com/MehdiNOUX/Random-Background-Color.git
 
-۲. فایل index.html را در مرورگر باز کنید.
+
+2. Open the index.html file in your browser.
